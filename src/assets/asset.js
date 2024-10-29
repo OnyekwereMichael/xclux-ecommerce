@@ -4,7 +4,7 @@ import SearchLogo from '../assets/SearchLogo.svg';
 import Arrow from '../assets/arrow.png'
 import verveCard from '../assets/verveCard.png';
 import masterCard from '../assets/masterCard.png';
-import visaCard from '../assets/visaCard.png';
+import visaCard from '../assets/visacard.png';
 import ShareButton from '../assets/share.png'
 const assets = {
 XsLogo,
