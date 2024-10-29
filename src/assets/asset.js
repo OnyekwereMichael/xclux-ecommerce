@@ -1,4 +1,4 @@
-import XsLogo from '../assets/XsLogo.webp';
+import XsLogo from '../assets/xsLogo.webp';
 import Filter from '../assets/filter.png';
 import SearchLogo from '../assets/SearchLogo.svg';
 import Arrow from '../assets/arrow.png'
