@@ -1,11 +1,11 @@
-import xsLogo from '../assets/xslogo.webp';
+import logo from '../assets/xslogo.webp';
 import searchLogo from '../assets/searchlogo.svg';
 import arrow from '../assets/arrow.png'
 import verveCard from '../assets/vervecard.png';
 import masterCard from '../assets/mastercard.png';
 import visaCard from '../assets/visacard.png';
 const assets = {
-xsLogo,
+logo,
 searchLogo,
 arrow,
 verveCard,

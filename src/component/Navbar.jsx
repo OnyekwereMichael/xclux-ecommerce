@@ -31,7 +31,7 @@ const Navbar = () => {
       ))}
       </ul>
 
-      <img src={assets.xsLogo} alt="XsLogo" width='40' className='max-xl:hidden'/>
+      <img src={assets.logo} alt="XsLogo" width='40' className='max-xl:hidden'/>
       <div className='flex gap-[20px] max-xl:hidden'>
         <div className=" p-[7px] w-[300px] flex items-center justify-between text-white   border-[#C3D4E9] border-[1px] border-solid rounded-full smm:w-[200px] ">
           <div className="flex gap-2">
