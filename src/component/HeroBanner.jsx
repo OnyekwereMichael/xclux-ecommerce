@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import { client } from '../lib/client'
 import { useQuery } from '@tanstack/react-query';
 import { IoIosArrowDropright } from 'react-icons/io';
-import assets from '../assets/asset';
+import assets from '../../public/assets/asset';
 
 const HeroBanner = () => {
     const [activeLink, setActiveLink] = useState("All"); 

@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import assets from '../assets/asset'
+import assets from '../../public/assets/asset'
 import { AiOutlineShopping } from 'react-icons/ai'
 import { FaShareAlt } from 'react-icons/fa';
 import MobileNav from '../component/MobileNav';

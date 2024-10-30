@@ -2,7 +2,7 @@ import React from 'react'
 import { FiMapPin, FiPhone, FiMessageSquare } from 'react-icons/fi';
 import { FaInstagram } from 'react-icons/fa';
 import { IoIosArrowForward } from 'react-icons/io';
-import assets from '../assets/asset';
+import assets from '../../public/assets/asset';
 import { useState } from 'react';
 
 

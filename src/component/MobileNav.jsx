@@ -1,6 +1,6 @@
 import React from 'react'
 import { HiMenu } from "react-icons/hi";
-import assets from '../assets/asset'
+import assets from '../../public/assets/asset'
 import { AiOutlineShopping } from 'react-icons/ai'
 import { FaShareAlt } from 'react-icons/fa';
 import { IoShareOutline } from 'react-icons/io5';
