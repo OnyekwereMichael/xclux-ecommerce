@@ -14,9 +14,9 @@ const Footer = () => {
             <div>
               <h1 className='text-white text-[18px] font-medium whitespace-nowrap'>Payment Methods</h1>
               <div className='flex gap-3 items-center'>
-                <img src={assets.masterCard} alt="" className='w-[40px] h-[40px] object-cover' />
-                <img src={assets.visaCard} alt="" className='w-[60px] h-[60px] object-cover' />
-                <img src={assets.verveCard} alt="" className='w-[60px] h-[60px] object-cover' />
+                <img src={assets.mastercard} alt="" className='w-[40px] h-[40px] object-cover' />
+                <img src={assets.visacard} alt="" className='w-[60px] h-[60px] object-cover' />
+                <img src={assets.vervecard} alt="" className='w-[60px] h-[60px] object-cover' />
               </div>
             </div>
 

@@ -57,7 +57,7 @@ const MobileNav = () => {
         </div>
 
         <div>
-          <img src={assets.searchLogo} alt="" />
+          <img src={assets.searchlogo} alt="" />
         </div>
       </div>
 

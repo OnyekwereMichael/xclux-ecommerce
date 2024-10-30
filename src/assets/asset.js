@@ -1,15 +1,15 @@
 import logo from '@/assets/logo.webp';
-import searchLogo from '../assets/searchlogo.svg';
+import searchlogo from '../assets/searchlogo.svg';
 import arrow from '../assets/arrow.png'
-import verveCard from '../assets/vervecard.png';
-import masterCard from '../assets/mastercard.png';
-import visaCard from '../assets/visacard.png';
+import vervecard from '../assets/vervecard.png';
+import mastercard from '../assets/mastercard.png';
+import visacard from '../assets/visacard.png';
 const assets = {
 logo,
-searchLogo,
+searchlogo,
 arrow,
-verveCard,
-masterCard,
-visaCard,
+vervecard,
+mastercard,
+visacard,
 }
 export default assets;
