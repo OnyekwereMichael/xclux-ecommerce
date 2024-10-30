@@ -1,4 +1,4 @@
-import logo from '@/assets/logo.webp';
+import logo from './logo.webp';
 import searchlogo from './searchlogo.svg';
 import arrow from './arrow.png'
 import vervecard from './vervecard.png';
