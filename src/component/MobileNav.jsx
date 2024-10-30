@@ -57,11 +57,11 @@ const MobileNav = () => {
         </div>
 
         <div>
-          <img src={assets.SearchLogo} alt="" />
+          <img src={assets.searchLogo} alt="" />
         </div>
       </div>
 
-      <img src={assets.XsLogo} alt="XsLogo" width='40' />
+      <img src={assets.xsLogo} alt="XsLogo" width='40' />
 
       <div className='flex gap-4 items-center'>
         <AiOutlineShopping className='text-white text-2xl' />
