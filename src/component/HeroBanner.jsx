@@ -50,7 +50,7 @@ const HeroBanner = () => {
                 </div>
             </div>
 
-            <div className='flex items-center gap-5 uppercase text-[20px] font-extralight mt-5 max-sm:gap-2 max-sm:mb-8 max-sm:text-[15px]'>
+            <div className='flex items-center gap-5 uppercase text-[20px] font-extralight mt-5 max-sm:gap-2 max-sm:mb-8 max-sm:text-[14px]'>
       {['All', 'Tops', 'Bottom'].map((category) => (
         <p
           key={category}
