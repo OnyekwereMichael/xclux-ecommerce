@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 import { FiMapPin, FiPhone, FiMessageSquare } from 'react-icons/fi';
 import { FaInstagram } from 'react-icons/fa';
 import { IoIosArrowForward } from 'react-icons/io';
