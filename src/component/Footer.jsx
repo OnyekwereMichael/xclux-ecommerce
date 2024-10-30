@@ -58,7 +58,7 @@ const Footer = () => {
                   className="bg-transparent outline-none rounded-xl "
                   placeholder="Enter your email address"
                 />
-                <IoIosArrowForward size={26} className='text-[#7E7E7E] bg-white bg-contain h-full w-full rounded-[5px] shadow-md p-[10px] ' />
+                <IoIosArrowForward size={26} className='text-[#7E7E7E] bg-white bg-contain h-full w-full rounded-[5px] shadow-md p-[10px] max-sm:hidden ' />
               </div>
             </div>
             <p className='text-[#7E7E7E] text-[14px] leading-normal'>Be the first to know when we have new offers. By signing up you agree<br className='hidden sm:hidden lg:flex' /> to XCLUX DESIGNERS terms and policy</p>
