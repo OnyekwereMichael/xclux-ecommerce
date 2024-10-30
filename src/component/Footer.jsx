@@ -1,8 +1,9 @@
-import React from 'react'
+import React, {useState} from 'react'
 import { FiMapPin, FiPhone, FiMessageSquare } from 'react-icons/fi';
 import { FaInstagram } from 'react-icons/fa';
 import { IoIosArrowForward } from 'react-icons/io';
 import assets from '../assets/asset';
+import { useState } from 'react';
 
 
 const Footer = () => {
