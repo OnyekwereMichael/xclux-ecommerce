@@ -41,7 +41,7 @@ const Product = () => {
             <div>
             <img src={product.imageUrl} alt={product.name}   className=''/>
              <div>
-              <div className=' outline-none border-0 p-[10px] flex flex-col justify-center items-center absolute lg:bottom-[134px] lg:left-[14px] lg:w-[44px] lg:h-[44px] h-[38px] w-[38px] max-sm:w-[25px] max-sm:h-[25px] bottom-[90px] left-[5%] bg-white opacity-90 rounded-[8px]'>
+              <div className=' outline-none border-0 p-[10px] flex flex-col justify-center items-center absolute lg:bottom-[134px] lg:left-[44px] lg:w-[44px] lg:h-[44px] h-[38px] w-[38px] max-sm:w-[25px] max-sm:h-[25px] bottom-[90px] left-[5%] bg-white opacity-90 rounded-[8px]'>
             <AiOutlineShopping size={14} className='text-black opacity-80 text-3xl max-sm:text-2xl no-underline  font-medium capitalize overflow-hidden whitespace-nowrap text-ellipsis absolute w-full h-full z-2' />
             </div>
             </div>
