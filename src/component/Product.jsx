@@ -46,7 +46,7 @@ const Product = () => {
             </div>
             </div>
           
-            <h3 className='text-[14px] no-underline lg:text-[24px] font-medium capitalize text-center py-[4px] overflow-hidden whitespace-nowrap text-ellipsis'>{product.name}</h3>
+            <h3 className='text-[14px] no-underline lg:text-[20px] font-medium capitalize text-center py-[4px] overflow-hidden whitespace-nowrap text-ellipsis'>{product.name}</h3>
             <p className='text-black text-opacity-60 text-[13px] lg:text-[16px] font-medium w-full max-w-[90%] text-right mb-4 capitalize overflow-hidden whitespace-nowrap text-ellipsis max-sm:'>{product.details}</p>
             <p className='text-[15px] lg:text-[22px]  font-medium capitalize w-full text-center overflow-hidden whitespace-nowrap text-ellipsis'>NGN {product.price}</p>
             </div>
